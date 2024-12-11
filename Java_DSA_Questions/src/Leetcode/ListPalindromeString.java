@@ -5,6 +5,7 @@ public class ListPalindromeString {
 		String str="abbasannasanthoshsohtnas";
 		int max=0;
 		String longStr="";
+		str.substring(0,str.lastIndexOf("s")+1);
 		for(int i=0;i<str.length();i++) {
 			String s=str.charAt(i)+"";
 			
