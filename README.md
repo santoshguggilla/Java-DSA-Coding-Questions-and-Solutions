@@ -1,3 +1,4 @@
+
 # DSA Coding Questions
 
 This repository contains a collection of data structures and algorithms (DSA) coding questions implemented in Java. Each file represents a different problem and provides a solution using appropriate algorithms and data structures.
@@ -27,12 +28,14 @@ Here’s a brief description of the files in this repository:
 - **AppendCharactersString.java**: Solution for appending characters to form a target string.
 - **ArithmeticSubsequence.java**: Implementation for finding the longest arithmetic subsequence in an array.
 - **ArraningCoins.java**: Problem of arranging coins in a staircase and determining how many full rows can be formed.
+- **ArraySpecial.java**: Added LeetCode problem for array manipulation.
 - **BSTGreaterSum.java**: Calculation of the greater sum of values in a binary search tree.
 - **Boats_to_Save_People.java**: Solution for the problem of saving people with limited boat capacity.
 - **BracesOrder.java**: Checking if a given string of braces is valid.
 - **CardGrouping.java**: Grouping cards based on frequency of occurrences.
 - **CombinedSum.java**: Finding combinations that add up to a target sum.
 - **CountItemMatching.java**: Counting the number of items that match a given rule.
+- **CountUnguarded.java**: Added LeetCode problem for counting unguarded items.
 - **DicesToTarget.java**: Finding the number of ways to roll dice to achieve a target sum.
 - **DiffWaysToCompute.java**: Calculating different ways to compute a target value using given integers and operators.
 - **FindCombination.java**: Finding all unique combinations of numbers that add up to a specific target.
@@ -42,6 +45,7 @@ Here’s a brief description of the files in this repository:
 - **GuessGame.java**: A simple number guessing game implementation.
 - **KSumPairs.java**: Finding all unique pairs that add up to a specified sum.
 - **LinkedListExample.java**: Basic implementation and operations on a singly linked list.
+- **LinkedList_Code_Question.java**: Basic operations on a linked list with added questions.
 - **ListPalindromeString.java**: Checking if a given string is a palindrome.
 - **LongestConsecutive.java**: Finding the longest consecutive sequence in an unsorted array.
 - **LongestPrefixString.java**: Finding the longest common prefix among a list of strings.
@@ -49,18 +53,23 @@ Here’s a brief description of the files in this repository:
 - **MaxDistance.java**: Finding the maximum distance between two elements in an array.
 - **MaxNumVowels.java**: Counting the maximum number of vowels in a given substring.
 - **MaxScoreWords.java**: Finding the maximum score from a set of words based on character values.
+- **MaximumSubarraySum.java**: Added LeetCode problem for finding maximum subarray sum.
 - **MergeSort.java**: Implementation of the merge sort algorithm.
 - **MinLenStrAfterRemovingSubStr.java**: Finding the minimum length of a string after removing specific substrings.
 - **MinNumKConsecutive.java**: Finding the minimum number of operations to achieve K consecutive numbers.
 - **MinimumDifficultyJobSchedule.java**: Scheduling jobs to minimize difficulty over a specific range.
+- **MovePieces.java**: Added LeetCode problem for moving pieces.
 - **MoveZeroes.java**: Moving all zeros in an array to the end while maintaining order of non-zero elements.
+- **NumSteps.java**: Added LeetCode problem for counting steps.
 - **PatternWithRecrusion.java**: Generating patterns using recursion.
 - **PrimeOddEvenAddition.java**: Calculating the sum of odd and even prime numbers in an array.
 - **QuickSort.java**: Implementation of the quicksort algorithm.
 - **ReductionBinaryOne.java**: Reducing binary numbers to the minimum possible value through specific operations.
+- **RegularExpression.java**: Added Regular Expression LeetCode problem.
 - **RelativeSort.java**: Implementing relative sorting based on given order.
 - **RemoveDuplicate.java**: Removing duplicates from a sorted array.
 - **Skipping_Elements.java**: Skipping elements in an array based on a specific condition.
+- **SlidingPuzzle.java**: Added LeetCode problem for sliding puzzle.
 - **SortingArray.java**: General implementation of sorting algorithms.
 - **Sqrt.java**: Calculating the square root of a number using binary search.
 - **Stream8Java.java**: Utilizing Java streams for processing data.
@@ -68,8 +77,10 @@ Here’s a brief description of the files in this repository:
 - **SumSquareNum.java**: Finding the sum of squares of numbers in a range.
 - **ThreeSum.java**: Finding all unique triplets in an array that sum to zero.
 - **ThreeSumCloset.java**: Finding the closest sum of three numbers to a target.
+- **TransformedArray.java**: Added LeetCode problem for array transformation.
 - **Unique_Number_of_Occurrences.java**: Finding the number of unique occurrences of elements in an array.
 - **WordSearch.java**: Searching for a word in a 2D board of characters.
+- **kClosest.java**: Added LeetCode problem for finding the k closest points to origin.
 
 ## Usage
 
@@ -78,3 +89,19 @@ To run any of the solutions, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/santoshguggilla/Java-DSA-Coding-Questions-and-Solutions
+   ```
+
+2. Navigate to the solution folder:
+   ```bash
+   cd Java-DSA-Coding-Questions-and-Solutions
+   ```
+
+3. Compile and run any Java file:
+   ```bash
+   javac <filename>.java
+   java <filename>
+   ```
+
+---
+
+This should now be a complete and updated `README.md` file with all the questions you’ve added in your repository.
