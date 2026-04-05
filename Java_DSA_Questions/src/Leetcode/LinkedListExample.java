@@ -23,7 +23,7 @@ public class LinkedListExample {
 			}else {
 				Node last=head;
 				while(last.next!=null) last=last.next;
-				last=node;
+				last.next=node;
 			}
 		}
 		printLinkedList(head);
